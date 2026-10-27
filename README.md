@@ -57,7 +57,6 @@ New Relic · AWS CloudWatch · Synthetic Monitoring
 ## 📊 GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=brunostsilva&show_icons=true&theme=default&hide_border=true" alt="Bruno's GitHub stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=brunostsilva&theme=default&hide_border=true" alt="Bruno's GitHub streak" />
 </div>
 
